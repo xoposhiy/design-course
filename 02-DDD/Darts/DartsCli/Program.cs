@@ -4,7 +4,7 @@
 	{
 		static void Main(string[] args)
 		{
-			new DartsConsoleUi().Run();
+			new DartsConsoleUi_new().Run();
 		}
 	}
 }
